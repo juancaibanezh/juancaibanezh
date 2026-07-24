@@ -4,6 +4,22 @@ I build software that solves real operational problems.
 
 My work focuses on designing enterprise platforms and infrastructure that simplify complex workflows, automate repetitive processes, and help organizations operate more efficiently.
 
+## Domains
+
+### Enterprise Communications
+
+- Automation
+- Diagnostics
+- Deployment
+- Operational tooling
+
+### Financial Technology
+
+- Underwriting
+- Funding strategy
+- Workflow automation
+- AI-assisted decision support
+
 Over the past few years, I've built production systems in two domains:
 
 **Enterprise Communications** — automation, diagnostics, deployment, and operational tooling for large-scale telephony environments.
@@ -14,17 +30,17 @@ Featured Work
 
 The core lending platform powering Facila Capital's commercial lending operations. FundDesk unifies underwriting, funding strategy, lender intelligence, workflow automation, document generation, and AI-assisted decision support into a single operational platform.
 
-**🔎 Call Investigator**
+**🔎 [Call Investigator](https://github.com/juancaibanezh/call-investigator)**
 
-Investigates and analyzes RingCentral call flows to accelerate troubleshooting and operational diagnostics.
+Production-grade diagnostics for reconstructing and troubleshooting RingCentral call-routing sessions.
 
 **🎙 Call Recording Retriever**
 
-Retrieves, validates, and organizes RingCentral call recordings with automated retry logic and metadata tracking.
+Reliable retrieval, validation, and organization of RingCentral call recordings with automated retry and integrity verification.
 
 **🎵 RingCentral Hold Music Deployer**
 
-Automates multi-site RingCentral hold music deployments with validation, deployment history, and safe retry mechanisms.
+Enterprise deployment platform for safely distributing hold music across multiple RingCentral sites with validation, retries, and deployment history.
 
 **How I Like to Build Software**
 -Solve real production problems first.
