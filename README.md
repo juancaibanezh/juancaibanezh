@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Juanca
 
-<!--
-**juancaibanezh/juancaibanezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that solves real operational problems.
 
-Here are some ideas to get you started:
+My work focuses on designing enterprise platforms and infrastructure that simplify complex workflows, automate repetitive processes, and help organizations operate more efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the past few years, I've built production systems in two domains:
+
+**Enterprise Communications** — automation, diagnostics, deployment, and operational tooling for large-scale telephony environments.
+**Financial Technology**— underwriting platforms, lending workflow automation, and AI-assisted decision support.
+Featured Work
+
+**🏦 FundDesk (Private)**
+
+The core lending platform powering Facila Capital's commercial lending operations. FundDesk unifies underwriting, funding strategy, lender intelligence, workflow automation, document generation, and AI-assisted decision support into a single operational platform.
+
+**🔎 Call Investigator**
+
+Investigates and analyzes RingCentral call flows to accelerate troubleshooting and operational diagnostics.
+
+**🎙 Call Recording Retriever**
+
+Retrieves, validates, and organizes RingCentral call recordings with automated retry logic and metadata tracking.
+
+**🎵 RingCentral Hold Music Deployer**
+
+Automates multi-site RingCentral hold music deployments with validation, deployment history, and safe retry mechanisms.
+
+**How I Like to Build Software**
+-Solve real production problems first.
+-Design for reliability before adding features.
+-Favor maintainable architecture over clever code.
+-Automate repetitive operational work.
+-Build software that people can trust in production.
+
+Engineering is the art of reducing complexity.
+Technology evolves. Well-designed systems endure.
