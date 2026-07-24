@@ -1,8 +1,8 @@
 Hi, I'm Juanca
 
-I build software that solves real operational problems.
+I build software that solves real operational problems. 
 
-My work focuses on designing enterprise platforms and infrastructure that simplify complex workflows, automate repetitive processes, and help organizations operate more efficiently.
+My work focuses on designing enterprise platforms and infrastructure that simplify complex workflows, automate repetitive processes, and help organizations operate more efficiently. Every public repository begins as a real production problem. Once proven in practice, I generalize it into reusable open-source software.
 
 ## Domains
 
@@ -34,11 +34,11 @@ The core lending platform powering Facila Capital's commercial lending operation
 
 Production-grade diagnostics for reconstructing and troubleshooting RingCentral call-routing sessions.
 
-**🎙 Call Recording Retriever**
+**🎙 [Call Recording Retriever](https://github.com/juancaibanezh/call-recording-retriever)**
 
 Reliable retrieval, validation, and organization of RingCentral call recordings with automated retry and integrity verification.
 
-**🎵 RingCentral Hold Music Deployer**
+**🎵 [RingCentral Hold Music Deployer](https://github.com/juancaibanezh/ringcentral-hold-music-deployer)**
 
 Enterprise deployment platform for safely distributing hold music across multiple RingCentral sites with validation, retries, and deployment history.
 
@@ -50,4 +50,4 @@ Enterprise deployment platform for safely distributing hold music across multipl
 -Build software that people can trust in production.
 
 Engineering is the art of reducing complexity.
-Technology evolves. Well-designed systems endure.
+Build for reliability. Design for change.
