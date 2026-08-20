@@ -1,27 +1,59 @@
 # Hi, I'm Juanca 👋
 
-I build software that solves real operational problems.
+I build software and automation that solve real operational problems.
 
-My work focuses on designing enterprise platforms and infrastructure that simplify complex workflows, automate repetitive processes, and help organizations operate more efficiently.
+My background is in enterprise technology, communications, infrastructure, and large-scale transformation. I increasingly focus on turning the problems I encounter in those environments into reliable software — from diagnostic and deployment tools to decision platforms and AI-assisted workflows.
+
+**Incoming M.S. in AI Engineering student at Quantic School of Business and Technology (2026–2027).**
 
 > Every public repository begins as a real production problem. Once proven in practice, I generalize it into reusable open-source software.
 
 ---
 
-## Domains
+## What I Work On
 
-### Enterprise Communications
+### 🏢 Enterprise Communications & Infrastructure
 
-- Automation
-- Diagnostics
-- Deployment
-- Operational tooling
+Tools and platforms for operating complex enterprise communications environments:
 
-### Financial Technology
+- Communications platform architecture and assessment
+- Call-flow diagnostics and troubleshooting
+- Large-scale configuration and deployment automation
+- Reporting and operational intelligence
+- API-driven workflow automation
 
-- Underwriting
+### ⚙️ Automation & Software Engineering
+
+I build tools to replace repetitive operational work with reliable, auditable processes:
+
+- Python automation
+- API integrations
+- Validation and error handling
+- Data processing and reporting
+- Decision and scoring engines
+- Production-oriented CLI and web applications
+
+### 🤖 Applied AI
+
+I'm exploring how AI can improve operational decision-making and automate complex workflows where traditional rules-based automation alone is insufficient.
+
+Current areas of interest include:
+
+- AI-assisted decision support
+- LLM-enabled applications
+- Intelligent workflow automation
+- AI-enabled communications
+- Human-in-the-loop systems
+- Reliable enterprise AI implementation
+
+### 💰 Financial Technology
+
+I also build technology supporting commercial lending operations:
+
+- Underwriting workflows
 - Funding strategy
-- Workflow automation
+- Lender intelligence
+- Document automation
 - AI-assisted decision support
 
 ---
@@ -32,35 +64,75 @@ My work focuses on designing enterprise platforms and infrastructure that simpli
 
 The core lending platform powering **Facila Capital's** commercial lending operations.
 
-FundDesk unifies underwriting, funding strategy, lender intelligence, workflow automation, document generation, and AI-assisted decision support into a single operational platform.
+FundDesk brings underwriting, funding strategy, lender intelligence, workflow automation, document generation, and AI-assisted decision support into a unified operational platform.
 
 ---
 
 ### 🔎 [Call Investigator](https://github.com/juancaibanezh/call-investigator)
 
-Production-grade diagnostics for reconstructing and troubleshooting RingCentral call-routing sessions.
+A diagnostic engine for reconstructing and troubleshooting RingCentral call-routing sessions.
+
+Built to turn complex call-routing data into structured, actionable troubleshooting information.
+
+**Focus:** Python · APIs · diagnostics · data correlation · enterprise communications
 
 ---
 
 ### 🎙 [Call Recording Retriever](https://github.com/juancaibanezh/call-recording-retriever)
 
-Reliable retrieval, validation, and organization of RingCentral call recordings with automated retry and integrity verification.
+A production-oriented tool for discovering, retrieving, validating, and organizing RingCentral call recordings.
+
+Includes automated retry logic and integrity verification for reliable retrieval at scale.
+
+**Focus:** Python · APIs · automation · validation · reliability
 
 ---
 
 ### 🎵 [RingCentral Hold Music Deployer](https://github.com/juancaibanezh/ringcentral-hold-music-deployer)
 
-Enterprise deployment platform for safely distributing hold music across multiple RingCentral sites with validation, retries, and deployment history.
+An enterprise deployment tool for safely distributing hold music across RingCentral users and call queues.
+
+Designed with validation, retries, and deployment history to make large-scale configuration changes predictable and recoverable.
+
+**Focus:** Python · APIs · deployment automation · operational safety
 
 ---
 
-## How I Like to Build Software
+## Currently Building
 
-- Solve real production problems first.
-- Design for reliability before adding features.
-- Favor maintainable architecture over clever code.
-- Automate repetitive operational work.
-- Build software that people can trust in production.
+I'm continuing to develop platforms around:
+
+- Enterprise communications assessment and decision support
+- Provider and capability intelligence
+- Cross-vendor technology evaluation
+- AI-enabled operational workflows
+- Reusable automation for enterprise systems
+
+Some of this work remains private while it is being developed and validated in real-world environments.
+
+---
+
+## Engineering Principles
+
+I try to follow a few simple principles:
+
+- **Solve the real problem first.**
+- **Understand the workflow before automating it.**
+- **Design for reliability before adding features.**
+- **Make failures visible and recoverable.**
+- **Favor maintainable architecture over clever code.**
+- **Use AI where it creates measurable value — not simply because it is available.**
+- **Build tools people can trust in production.**
+
+---
+
+## Current Direction
+
+I'm continuing to deepen my software engineering and AI capabilities while working at the intersection of:
+
+**Enterprise Technology · Communications · Automation · AI · Operations**
+
+My goal is to build systems that reduce complexity, improve decision-making, and create measurable operational value.
 
 ---
 
